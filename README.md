@@ -1,6 +1,6 @@
 # Washington Bike Rental Business Case
 
-![roman-koester-bike.jpg](assets\roman-koester-bike.jpg)
+![roman-koester-bike.jpg](assets/roman-koester-bike.jpg)
 
 ## Background do Projeto
 
@@ -12,7 +12,7 @@ Os insights são disponibilizados nas seguintes áreas:
 * **Clima**
 * **Tempo**
 
-![tools](assets\tools.png)
+![tools](assets/tools.png)
 
 Para o desenvolvimento do projeto, utilizarei **`Python`** para a preparação e exploração dos dados devido à sua flexibilidade e eficiência. Após estas etapas, os dados serão exportados no formato **`csv`** e importados ao Google Sheets para análisar as hipóteses geradas.
 
@@ -51,7 +51,7 @@ Os dados foram disponibilizados em um único arquivo Excel (xlsx), com uma quant
 * Observa-se um **crescimento no número total de aluguéis no ano de 2012, com crescimento de 66.7% em relação ao mês anterior**.
 * Os usuários registrados no serviço correspondem a **81% dos aluguéis de bicicletas**.
 
-![comportamento_uso_tendencias](assets\comportamento_uso_tendencias.png)
+![comportamento_uso_tendencias](assets/comportamento_uso_tendencias.png)
 
 #### Influência de Fatores Climáticos:
 
@@ -60,14 +60,14 @@ Os dados foram disponibilizados em um único arquivo Excel (xlsx), com uma quant
 * A temperatura influencia consideravelmente o número de aluguéis. Dias com temperaturas acima de 30 graus tem média de  344 bicicletas alugadas, 93% maior em relação aos dias com temperatura abaixo de 30º.
 * Usuários tendem a alugar mais bicicletas em dias com menor umidade do ar. Dias com a umidade relativa do ar abaixo de 40% tem média de 290 aluguéis, 62% maior em relação aos dias mais umidos.
 
-![influencia_clima](assets\influencia_clima.png)
+![influencia_clima](assets/influencia_clima.png)
 
 #### Influência de Fatores Temporáis:
 
 * O uso de bicicleta está mais concentrado nos períodos de 8AM e 5PM-6PM. Isso implica que o uso mais frequente é em horários de ida e retorno do trabalho.
 * Nos finais de semana o comportamento é mais distribuido durante o dia, concentrando mais aluguéis entre fim da manhã e o fim de tarde.
 
-![influencia_tempo](assets\influencia_tempo.png)
+![influencia_tempo](assets/influencia_tempo.png)
 
 ## Premissas
 
