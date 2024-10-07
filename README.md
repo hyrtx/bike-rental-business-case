@@ -20,6 +20,8 @@ O código em Python utilizado para inspecionar, limpar os dados e correlacionar 
 
 O dashboard interativo utilizado para reportar e explorar a relação das variáveis no número do aluguel de bicicletas pode ser acessado [neste link](https://lookerstudio.google.com/reporting/3b0572a1-d24b-45a4-a23c-d5569bbab053)
 
+Os slides com os insights e informações do projeto pode ser acessado [neste link](https://docs.google.com/presentation/d/1lLepx4CQQUU5zJQhUdF6re3b-HrcKk7D_3JhpwjhuTo/edit?usp=sharing)
+
 ## Estrutura de Dados
 
 Os dados foram disponibilizados em um único arquivo Excel (xlsx), com uma quantidade total de 10.886 linhas. A descrição de cada variável é a seguinte:
