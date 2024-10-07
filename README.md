@@ -50,7 +50,7 @@ Os dados foram disponibilizados em um único arquivo Excel (xlsx), com uma quant
 
 #### Comportamento de Uso e Tendência de Aluguéis:
 
-* Observa-se um **crescimento no número total de aluguéis no ano de 2012, com crescimento de 66.7% em relação ao mês anterior**.
+* Observa-se um **crescimento no número total de aluguéis no ano de 2012, com crescimento de 66.7% em relação ao ano de 2011**.
 * Os usuários registrados no serviço correspondem a **81% dos aluguéis de bicicletas**.
 
 ![comportamento_uso_tendencias](assets/comportamento_uso_tendencias.png)
